@@ -1,4 +1,4 @@
-# Sales-Finance-Analytics
+# Atliq Hardware Sales and Profit Analysis
 📈 Sales Report:
 1.Customer Performance Report: Conveys the role of each customer in sales and the variation in their sales over time.
 2.Market Performance vs Target: Analyzes the execution in the actual market compared to set goals and objectives, identifying where organizations have surpassed or fallen behind.
